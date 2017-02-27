@@ -31,4 +31,3 @@ sa.existsMatch(oreally, { b: { a: "faster slowloris" } }); // => true
 * findEquals : (**arrayObject, Value**) find objects that has a *Value* in a whole *Object*
 * findMatch : (**arrayObject, searchObj**) find objects that has match with *searchObj*
 * findAnyMatch : (**arrayObject, searchObj**) find objects that has any match with *searchObj*
-
