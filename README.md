@@ -1,5 +1,5 @@
 # Ez Filter
-Simples filter algorithms for Javascript
+Simple algorithm filters for javascript objects
 
 * Basic, Light weight
 * Useful to execute search procedures
