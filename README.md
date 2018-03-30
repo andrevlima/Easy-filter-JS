@@ -1,7 +1,7 @@
-# SA
-Search algorithms for Javascript
+# Ez Filter
+Simples filter algorithms for Javascript
 
-* Basic, Light weight and maintainable
+* Basic, Light weight
 * Useful to execute search procedures
 
 Consider the bellow object:
